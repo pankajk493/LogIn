@@ -1,0 +1,49 @@
+body{
+	background-image: url("https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+	background-position: center;
+}
+.main{
+	padding-top: 1em;
+
+}
+
+.number{
+	font-size: 1.4em;
+	padding-left: 5.5em;
+}
+.log{
+	padding-left: 7.8em;
+}
+#button{
+	font-size: 50px;
+	padding-top: 0.75em;
+	padding-left: 3.8em;
+}
+.rem{
+	font-weight: bolder;
+}
+.or{
+	font-weight: bold;
+}
+.input{
+	padding-top: .5em;
+	padding-left: 12em;
+}
+#your{
+	padding-top: 1.5em;
+}
+.center{
+	padding-left: 13em;
+}
+.pink{
+	padding-left: 19em;
+	padding-top: 1.4em;
+}
+.cont{
+	padding-left: 15.5em;
+	padding-top: 1.4em;
+
+}
+.with{
+	padding-left: 16.2em;
+}
